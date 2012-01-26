@@ -1,0 +1,1 @@
+/* This is the default file for writing and executing SQL queries */

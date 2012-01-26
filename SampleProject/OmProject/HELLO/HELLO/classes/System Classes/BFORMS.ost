@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Class>
+	<Properties>
+		<Property>
+			$classtype
+			<Value>
+				systemtable
+			</Value>
+		</Property>
+		<Property>
+			$componenttype
+			<Value>
+				kCompStoreHidden
+			</Value>
+		</Property>
+		<Property>
+			$createdate
+			<Value>
+				7 Apr 2008  14:21:38
+			</Value>
+		</Property>
+		<Property>
+			$desc
+			<Value>
+			</Value>
+		</Property>
+		<Property>
+			$disksize
+			<Value>
+				109
+			</Value>
+		</Property>
+		<Property>
+			$external
+			<Value>
+				0
+			</Value>
+		</Property>
+		<Property>
+			$ident
+			<Value>
+				262
+			</Value>
+		</Property>
+		<Property>
+			$moddate
+			<Value>
+				3 Jan 2008  15:45:22
+			</Value>
+		</Property>
+		<Property>
+			$name
+			<Value>
+				#BFORMS
+			</Value>
+		</Property>
+		<Property>
+			$parentfolder
+			<Value>
+				269
+			</Value>
+		</Property>
+		<Property>
+			$pathname
+			<Value>
+				:System Classes:#BFORMS
+			</Value>
+		</Property>
+		<Property>
+			$userinfo
+			<Value>
+			</Value>
+		</Property>
+		<Property>
+			$version
+			<Value>
+				1
+			</Value>
+		</Property>
+	</Properties>
+	<SystemTableProps>
+		<Line Name="1">
+			<Text>
+				T
+			</Text>
+		</Line>
+		<Line Name="2">
+			<Text>
+				t
+			</Text>
+		</Line>
+		<Line Name="3">
+			<Text>
+				Y
+			</Text>
+		</Line>
+		<Line Name="4">
+			<Text>
+				y
+			</Text>
+		</Line>
+		<Line Name="5">
+			<Text>
+				O
+			</Text>
+		</Line>
+		<Line Name="6">
+			<Text>
+				1
+			</Text>
+		</Line>
+		<Line Name="7">
+			<Text>
+				[GREEN]O;[RED]O
+			</Text>
+		</Line>
+		<Line Name="8">
+			<Text>
+				[GREEN]Y;[RED]Y
+			</Text>
+		</Line>
+		<Line Name="9">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="10">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="11">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="12">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="13">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="14">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="15">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="16">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="17">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="18">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="19">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="20">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="21">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="22">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="23">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="24">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="25">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="26">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="27">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="28">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="29">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="30">
+			<Text>
+			</Text>
+		</Line>
+	</SystemTableProps>
+</Class>
