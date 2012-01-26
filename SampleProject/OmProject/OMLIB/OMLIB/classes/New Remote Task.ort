@@ -27,7 +27,7 @@
 		<Property>
 			$createdate
 			<Value>
-				26 Jan 2012  12:42:52
+				26 Jan 2012  13:14:55
 			</Value>
 		</Property>
 		<Property>
@@ -38,7 +38,7 @@
 		<Property>
 			$disksize
 			<Value>
-				375
+				463
 			</Value>
 		</Property>
 		<Property>
@@ -61,7 +61,7 @@
 		<Property>
 			$ident
 			<Value>
-				278
+				277
 			</Value>
 		</Property>
 		<Property>
@@ -90,7 +90,7 @@
 		<Property>
 			$moddate
 			<Value>
-				26 Jan 2012  12:42:52
+				26 Jan 2012  14:24:43
 			</Value>
 		</Property>
 		<Property>
@@ -194,6 +194,7 @@
 			<lVarDefs/>
 			<Methodlines>
 				<Methodline Name="1" Text=";  Enter your initialization code here"/>
+				<Methodline Name="2" Text=";  Added new comments"/>
 			</Methodlines>
 		</Method>
 		<Method Name="$destruct">
@@ -248,7 +249,7 @@
 			</Properties>
 			<lVarDefs/>
 			<Methodlines>
-				<Methodline Name="1" Text=";  Enter your termination code here"/>
+				<Methodline Name="1" Text=";  Changed the text here"/>
 			</Methodlines>
 		</Method>
 		<Method Name="New Method">
@@ -286,6 +287,61 @@
 					$order
 					<Value>
 						3
+					</Value>
+				</Property>
+				<Property>
+					$totalexecutiontime
+					<Value>
+						0.0000
+					</Value>
+				</Property>
+				<Property>
+					$webservicemethod
+					<Value>
+						kWSMethodNone
+					</Value>
+				</Property>
+			</Properties>
+			<lVarDefs/>
+			<Methodlines>
+				<Methodline Name="1" Text=""/>
+			</Methodlines>
+		</Method>
+		<Method Name="MethodAdded">
+			<Properties>
+				<Property>
+					$callcount
+					<Value>
+						0
+					</Value>
+				</Property>
+				<Property>
+					$clientexec
+					<Value>
+						0
+					</Value>
+				</Property>
+				<Property>
+					$desc
+					<Value>
+					</Value>
+				</Property>
+				<Property>
+					$maxexecutiontime
+					<Value>
+						0.0000
+					</Value>
+				</Property>
+				<Property>
+					$minexecutiontime
+					<Value>
+						0.0000
+					</Value>
+				</Property>
+				<Property>
+					$order
+					<Value>
+						4
 					</Value>
 				</Property>
 				<Property>

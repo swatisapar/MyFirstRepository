@@ -51,7 +51,7 @@
 		<Property>
 			$pathname
 			<Value>
-				C:\USERS\SSAPAR\TIGERLOGIC\OEDP2\WORKSPACE\OMPROJECT\OMLIB\OMLIB.LBS
+				C:\GIT\OMGIT\SAMPLEPROJECT\OMPROJECT\OMLIB\OMLIB.LBS
 			</Value>
 		</Property>
 		<Property>
@@ -318,9 +318,9 @@
 		<Class Name="#WIWFONTS" Type="systemtable" Ident="257" DesignTask="" Superclass="" ParentFolder="System Classes" ComponentType="kCompStoreHidden"/>
 		<Class Name="#WMWFONTS" Type="systemtable" Ident="259" DesignTask="" Superclass="" ParentFolder="System Classes" ComponentType="kCompStoreHidden"/>
 		<Class Name="New Folder" Type="folder" Ident="279" DesignTask="" Superclass="" ParentFolder="" ComponentType="kCompStoreHidden"/>
-		<Class Name="New Object" Type="object" Ident="280" DesignTask="" Superclass="" ParentFolder="New Folder" ComponentType="kCompStoreHidden"/>
-		<Class Name="New Remote Form" Type="remoteform" Ident="277" DesignTask="" Superclass="" ParentFolder="" ComponentType="kCompStoreHidden"/>
-		<Class Name="New Remote Task" Type="remotetask" Ident="278" DesignTask="" Superclass="" ParentFolder="" ComponentType="kCompStoreHidden"/>
+		<Class Name="New Object" Type="object" Ident="278" DesignTask="" Superclass="" ParentFolder="New Folder" ComponentType="kCompStoreHidden"/>
+		<Class Name="New Remote Form" Type="remoteform" Ident="280" DesignTask="" Superclass="" ParentFolder="" ComponentType="kCompStoreHidden"/>
+		<Class Name="New Remote Task" Type="remotetask" Ident="277" DesignTask="" Superclass="" ParentFolder="" ComponentType="kCompStoreHidden"/>
 		<Class Name="New Schema" Type="schema" Ident="281" DesignTask="" Superclass="" ParentFolder="New Folder" ComponentType="kCompStoreHidden"/>
 		<Class Name="Startup_Task" Type="task" Ident="274" DesignTask="" Superclass="" ParentFolder="" ComponentType="kCompStoreHidden"/>
 		<Class Name="System Classes" Type="folder" Ident="276" DesignTask="" Superclass="" ParentFolder="" ComponentType="kCompStoreHidden"/>
