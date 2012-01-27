@@ -38,7 +38,7 @@
 		<Property>
 			$disksize
 			<Value>
-				463
+				448
 			</Value>
 		</Property>
 		<Property>
@@ -90,7 +90,7 @@
 		<Property>
 			$moddate
 			<Value>
-				26 Jan 2012  14:24:43
+				27 Jan 2012  11:55:17
 			</Value>
 		</Property>
 		<Property>
@@ -252,61 +252,6 @@
 				<Methodline Name="1" Text=";  Changed the text here"/>
 			</Methodlines>
 		</Method>
-		<Method Name="New Method">
-			<Properties>
-				<Property>
-					$callcount
-					<Value>
-						0
-					</Value>
-				</Property>
-				<Property>
-					$clientexec
-					<Value>
-						0
-					</Value>
-				</Property>
-				<Property>
-					$desc
-					<Value>
-					</Value>
-				</Property>
-				<Property>
-					$maxexecutiontime
-					<Value>
-						0.0000
-					</Value>
-				</Property>
-				<Property>
-					$minexecutiontime
-					<Value>
-						0.0000
-					</Value>
-				</Property>
-				<Property>
-					$order
-					<Value>
-						3
-					</Value>
-				</Property>
-				<Property>
-					$totalexecutiontime
-					<Value>
-						0.0000
-					</Value>
-				</Property>
-				<Property>
-					$webservicemethod
-					<Value>
-						kWSMethodNone
-					</Value>
-				</Property>
-			</Properties>
-			<lVarDefs/>
-			<Methodlines>
-				<Methodline Name="1" Text=""/>
-			</Methodlines>
-		</Method>
 		<Method Name="MethodAdded">
 			<Properties>
 				<Property>
@@ -360,6 +305,7 @@
 			<lVarDefs/>
 			<Methodlines>
 				<Methodline Name="1" Text=""/>
+				<Methodline Name="2" Text="Print class {New Remote Form}"/>
 			</Methodlines>
 		</Method>
 	</Methods>
