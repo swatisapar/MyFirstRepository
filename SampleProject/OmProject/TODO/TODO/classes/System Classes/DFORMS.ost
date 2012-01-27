@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Class>
+	<Properties>
+		<Property>
+			$classtype
+			<Value>
+				systemtable
+			</Value>
+		</Property>
+		<Property>
+			$componenttype
+			<Value>
+				kCompStoreHidden
+			</Value>
+		</Property>
+		<Property>
+			$createdate
+			<Value>
+				18 Jan 2012  10:36:09
+			</Value>
+		</Property>
+		<Property>
+			$desc
+			<Value>
+			</Value>
+		</Property>
+		<Property>
+			$disksize
+			<Value>
+				2021
+			</Value>
+		</Property>
+		<Property>
+			$external
+			<Value>
+				0
+			</Value>
+		</Property>
+		<Property>
+			$ident
+			<Value>
+				267
+			</Value>
+		</Property>
+		<Property>
+			$moddate
+			<Value>
+				21 Sep 2011  15:38:42
+			</Value>
+		</Property>
+		<Property>
+			$name
+			<Value>
+				#DFORMS
+			</Value>
+		</Property>
+		<Property>
+			$parentfolder
+			<Value>
+				276
+			</Value>
+		</Property>
+		<Property>
+			$pathname
+			<Value>
+				:System Classes:#DFORMS
+			</Value>
+		</Property>
+		<Property>
+			$userinfo
+			<Value>
+			</Value>
+		</Property>
+		<Property>
+			$version
+			<Value>
+				1
+			</Value>
+		</Property>
+	</Properties>
+	<SystemTableProps>
+		<Line Name="1">
+			<Text>
+				D m y
+			</Text>
+		</Line>
+		<Line Name="2">
+			<Text>
+				H:N
+			</Text>
+		</Line>
+		<Line Name="3">
+			<Text>
+				h:N A
+			</Text>
+		</Line>
+		<Line Name="4">
+			<Text>
+				H:N:S
+			</Text>
+		</Line>
+		<Line Name="5">
+			<Text>
+				H:N:S.s
+			</Text>
+		</Line>
+		<Line Name="6">
+			<Text>
+				D m Y  H:N
+			</Text>
+		</Line>
+		<Line Name="7">
+			<Text>
+				D m Y  H:N:S
+			</Text>
+		</Line>
+		<Line Name="8">
+			<Text>
+				D m Y  H:N:S.s
+			</Text>
+		</Line>
+		<Line Name="9">
+			<Text>
+				M/D/Y
+			</Text>
+		</Line>
+		<Line Name="10">
+			<Text>
+				w, n D, y
+			</Text>
+		</Line>
+		<Line Name="11">
+			<Text>
+				D/M/Y
+			</Text>
+		</Line>
+		<Line Name="12">
+			<Text>
+				w, D n, y
+			</Text>
+		</Line>
+		<Line Name="13">
+			<Text>
+				M/D/Y h:N A
+			</Text>
+		</Line>
+		<Line Name="14">
+			<Text>
+				D/M/Y H:N
+			</Text>
+		</Line>
+		<Line Name="15">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="16">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="17">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="18">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="19">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="20">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="21">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="22">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="23">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="24">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="25">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="26">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="27">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="28">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="29">
+			<Text>
+			</Text>
+		</Line>
+		<Line Name="30">
+			<Text>
+			</Text>
+		</Line>
+	</SystemTableProps>
+</Class>

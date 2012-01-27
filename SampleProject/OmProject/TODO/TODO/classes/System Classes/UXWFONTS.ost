@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Class>
+	<Properties>
+		<Property>
+			$classtype
+			<Value>
+				systemtable
+			</Value>
+		</Property>
+		<Property>
+			$componenttype
+			<Value>
+				kCompStoreHidden
+			</Value>
+		</Property>
+		<Property>
+			$createdate
+			<Value>
+				18 Jan 2012  10:36:09
+			</Value>
+		</Property>
+		<Property>
+			$desc
+			<Value>
+			</Value>
+		</Property>
+		<Property>
+			$disksize
+			<Value>
+				343
+			</Value>
+		</Property>
+		<Property>
+			$external
+			<Value>
+				0
+			</Value>
+		</Property>
+		<Property>
+			$ident
+			<Value>
+				263
+			</Value>
+		</Property>
+		<Property>
+			$moddate
+			<Value>
+				21 Sep 2011  15:38:42
+			</Value>
+		</Property>
+		<Property>
+			$name
+			<Value>
+				#UXWFONTS
+			</Value>
+		</Property>
+		<Property>
+			$parentfolder
+			<Value>
+				276
+			</Value>
+		</Property>
+		<Property>
+			$pathname
+			<Value>
+				:System Classes:#UXWFONTS
+			</Value>
+		</Property>
+		<Property>
+			$userinfo
+			<Value>
+			</Value>
+		</Property>
+		<Property>
+			$version
+			<Value>
+				1
+			</Value>
+		</Property>
+	</Properties>
+	<SystemTableProps>
+		<Line Name="1">
+			<Fontname>
+				Arial
+			</Fontname>
+		</Line>
+		<Line Name="2">
+			<Fontname>
+				Courier New
+			</Fontname>
+		</Line>
+		<Line Name="3">
+			<Fontname>
+				Times New Roman
+			</Fontname>
+		</Line>
+		<Line Name="4">
+			<Fontname>
+				Omnis Windows System
+			</Fontname>
+		</Line>
+		<Line Name="5">
+			<Fontname>
+				System
+			</Fontname>
+		</Line>
+		<Line Name="6">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="7">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="8">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="9">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="10">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="11">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="12">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="13">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="14">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="15">
+			<Fontname>
+			</Fontname>
+		</Line>
+		<Line Name="16">
+			<Fontname>
+			</Fontname>
+		</Line>
+	</SystemTableProps>
+</Class>
